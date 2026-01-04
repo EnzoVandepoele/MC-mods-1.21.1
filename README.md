@@ -1,2 +1,70 @@
 # MC-mods-1.21.1
 Modpack pour Minecraft 1.21.1 Neoforge
+
+## Liste des mods & Wiki :
+- Create : https://wiki.createmod.net/
+- Biome O'Plenty
+	- Glitch Core
+	- TerraBlender (NeoForge)
+- Sophisticated Backpack : https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks
+- Carry On : https://github.com/Tschipp/CarryOn/wiki
+- Chunk Loader : https://www.curseforge.com/minecraft/mc-mods/chunk-loaders
+- Just Enough Items
+- Supplementaries : https://github.com/MehVahdJukaar/Supplementaries/wiki/Customization
+	- MoonLight Library
+- Oh The Biomes We've Gone
+- Inventory Sorter
+- Explorer's Compass : https://www.curseforge.com/minecraft/mc-mods/explorers-compass
+- Distant Horizons : https://gitlab.com/distant-horizons-team/distant-horizons/-/wikis/2-frequently-asked-questions/1-general/General
+- Easy Mob Farm : https://github.com/MarkusBordihn/BOs-Easy-Mob-Farm/wiki
+- Waystones : https://mods.twelveiterations.com/mc/waystones
+- Just Enough Ressources
+- Simple Voice Chat : https://modrepo.de/minecraft/voicechat/wiki
+- Better Combat
+- Relics : https://github.com/SSKirillSS/relics/wiki
+	- Curios API
+	- Octolib
+- Particular
+- MrCrayfish's Furniture : https://mrcrayfish.github.io/MrCrayfishFurnitureMod-Refurbished/
+- Nature's Compass : https://www.curseforge.com/minecraft/mc-mods/natures-compass
+- Essential Mod : https://essential.gg/wiki
+- Tool Belt : https://github.com/gigaherz/ToolBelt/wiki
+- Not Enough Animations
+- FTB Quests : https://docs.feed-the-beast.com/
+	- FTB XMod Compat
+- Create Mobile Packages : https://www.curseforge.com/minecraft/mc-mods/create-mobile-packages
+- Villager Names
+	- Collective
+- Apple Skin : https://www.curseforge.com/minecraft/mc-mods/appleskin
+- Create Deco : https://www.curseforge.com/minecraft/mc-mods/create-deco
+- Simple Backups (server only) : https://wiki.chaotictrials.de/
+- Corpse : https://www.curseforge.com/minecraft/mc-mods/corpse
+- MNS - Moog's Nether Structures : https://www.curseforge.com/minecraft/mc-mods/mns-moogs-nether-structures
+- MVS - Moog's Voyager Structures : https://github.com/FinnSetchell/MoogsVanillaStructuresV2/wiki
+- Deeper And Darker : https://github.com/KyaniteMods/DeeperAndDarker/wiki
+- Farmers Structures : https://www.curseforge.com/minecraft/mc-mods/farmers-structures
+- The Undergarden : https://www.curseforge.com/minecraft/mc-mods/the-undergarden
+- Undergarden Delight : https://www.curseforge.com/minecraft/mc-mods/undergarden-delight
+- Create Hypertubes : https://www.curseforge.com/minecraft/mc-mods/hypertubes
+- Vanilla Backport : https://github.com/ItsBlackGear/VanillaBackport/wiki
+- Create Enchantment Industry : https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry
+	- Create Dragons Plus
+- Create Jetpack
+- Create Slice & Dice : https://www.curseforge.com/minecraft/mc-mods/slice-and-dice
+- Smarter Farmers : https://www.curseforge.com/minecraft/mc-mods/smarter-farmers-farmers-replant
+- Artifacts : https://github.com/ochotonida/artifacts/wiki
+- Mighty Mail : https://www.curseforge.com/minecraft/mc-mods/mighty-mail
+- Relics Artifacts Compat (mod de compatibilité)
+- Corpse x Curios API Compat (mod de compatibilité)
+- Find Me : https://www.curseforge.com/minecraft/mc-mods/findme
+- The Aether : https://aether.wiki.gg/
+- Refined Storage : https://refinedmods.com/refined-storage
+- Farmer's Delight : https://github.com/vectorwing/FarmersDelight/wiki
+- Elytra Slot
+	- Caelus API (config sur serveur à voir)
+- Apothic Spawners : https://www.curseforge.com/minecraft/mc-mods/apothic-spawners
+- Mowzie's Mobs : https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs
+- Bosses of Mass Destruction : https://www.curseforge.com/minecraft/mc-mods/bosses-of-mass-destruction-forge
+	- CERBON's API
+	- GeckoLib : https://github.com/bernie-g/geckolib/wiki
+- Gamingbarn's Guns : https://gamingbarn.net/Datapacks/1
